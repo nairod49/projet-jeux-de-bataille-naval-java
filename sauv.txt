@@ -1,0 +1,56 @@
+Tableau de tir
+   |A|B|C|D|E|F|G|H|I|J|
+|1 |o|o|o|o|o|o|o|o|o|o|
+|2 |o|o|o|o|o|o|o|o|o|o|
+|3 |o|o|o|o|o|o|o|o|o|o|
+|4 |o|o|o|o|o|o|o|d|o|o|
+|5 |o|o|o|o|o|o|o|o|o|o|
+|6 |o|o|o|o|o|o|o|o|o|o|
+|7 |o|o|o|o|o|o|o|o|o|o|
+|8 |o|o|o|o|o|o|t|o|o|o|
+|9 |o|o|o|o|o|o|o|o|o|o|
+|10|o|o|o|o|o|o|o|o|o|o|
+
+---------------------------------------
+Tableau des bateau
+   |A|B|C|D|E|F|G|H|I|J|
+|1 |o|b|o|b|b|b|b|t|o|o|
+|2 |o|b|o|o|t|o|o|t|o|o|
+|3 |o|b|o|o|o|o|b|d|b|o|
+|4 |o|o|o|o|o|b|o|t|o|o|
+|5 |o|o|o|o|o|b|o|t|o|o|
+|6 |o|o|o|o|o|b|o|t|o|o|
+|7 |o|o|o|o|o|b|o|t|o|o|
+|8 |o|o|o|o|o|b|o|t|o|o|
+|9 |t|t|t|t|t|t|t|t|t|t|
+|10|o|o|o|o|o|o|o|t|b|b|
+
+ Bh=1  Bv=1 Bc=1 
+Tableau de tir
+   |A|B|C|D|E|F|G|H|I|J|
+|1 |o|o|o|o|o|o|o|t|o|o|
+|2 |o|o|o|o|t|o|o|t|o|o|
+|3 |o|o|o|o|o|o|o|d|o|o|
+|4 |o|o|o|o|o|o|o|t|o|o|
+|5 |o|o|o|o|o|o|o|t|o|o|
+|6 |o|o|o|o|o|o|o|t|o|o|
+|7 |o|o|o|o|o|o|o|t|o|o|
+|8 |o|o|o|o|o|o|o|t|o|o|
+|9 |t|t|t|t|t|t|t|t|t|t|
+|10|o|o|o|o|o|o|o|t|o|o|
+
+---------------------------------------
+Tableau des bateau
+   |A|B|C|D|E|F|G|H|I|J|
+|1 |b|o|o|o|o|o|o|o|o|o|
+|2 |b|o|o|o|o|b|o|o|o|o|
+|3 |b|o|o|o|o|b|o|o|o|o|
+|4 |b|o|o|o|o|b|o|d|b|b|
+|5 |b|o|o|o|o|o|o|o|o|o|
+|6 |o|o|o|o|o|o|o|o|b|o|
+|7 |o|o|o|o|o|o|o|o|b|o|
+|8 |o|o|o|o|b|b|t|o|b|o|
+|9 |o|o|o|o|o|o|o|o|b|o|
+|10|o|o|o|o|o|o|o|o|o|o|
+
+ Bh=0  Bv=0 Bc=1 
